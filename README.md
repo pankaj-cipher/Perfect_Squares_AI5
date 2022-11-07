@@ -27,7 +27,7 @@ API Creation folder includes API for caption generation api and notebook for pre
 
 ## Model Architecture
 
-
+![Inkedmodel_arch](https://user-images.githubusercontent.com/62597420/200244412-c5dac0c3-2d08-4e3b-bbba-b9f625f93301.jpg)
 
 
 
