@@ -44,7 +44,15 @@ API Creation folder includes API for caption generation api and notebook for pre
 
 
 
-## api-creation folder above includes our deployed backend api which generates caption through prediction.
+## api-creation 
+This folder above includes our deployed backend api which generates caption through prediction.
 
-## my-app is our React frontend which call api-creation for caption generation. 
+## my-app 
+This is our React frontend which call api-creation for caption generation. 
+
+## UI LINK
+https://frontend-qedrkn2beq-uc.a.run.app/
+
+## Post API Link
+https://caption-qedrkn2beq-uc.a.run.app/caption_generator
 
